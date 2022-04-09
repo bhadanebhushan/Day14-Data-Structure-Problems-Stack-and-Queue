@@ -2,7 +2,6 @@ package com.stackqueue;
 
 import java.util.Scanner;
 
-
 public class LinkedList {
 	Scanner scanner = new Scanner(System.in);
 
