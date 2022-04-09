@@ -126,7 +126,7 @@ public class LinkedList {
 		}
 	}
 
-	
+
 	public int getSize() {
 		int count = 0;
 		if (head == null)
